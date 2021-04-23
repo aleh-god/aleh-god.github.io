@@ -46,7 +46,7 @@ No have experience. Self-education.
 - [x] [Metanit PostgreSQL course](https://metanit.com/sql/postgresql)
 
 - [x] [Alishev Spring Framework youtube course](https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)
-:writing_hand:
+
 - [ ] [LetCode Spring Boot, Hibernate, Security youtube course](https://www.youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)
 
 - [ ] Head First Design Patterns: A Brain-Friendly Guide (RU) (1 page to 452)
