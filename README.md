@@ -33,6 +33,7 @@ A long time ago, in 1998, I wanted to study programming, become a programmer and
 - https://github.com/aleh-god/JavaCoreLearn
 - https://github.com/aleh-god/Spring.Core.Learn
 - https://github.com/aleh-god/SpringBootLearn
+- - https://github.com/aleh-god/KotlinCoreLearn
 
 ### 6. Experience :brain:
 No have experience. Self-education.
@@ -50,6 +51,8 @@ No have experience. Self-education.
 - [ ] [LetCode Spring Boot, Hibernate, Security youtube course](https://www.youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)
 
 - [ ] Head First Design Patterns: A Brain-Friendly Guide (RU) (1 page to 452)
+
+- [ ] [Metanit Kotlin course](https://metanit.com/kotlin/tutorial/)
 
 ### 8. English :lips:
 * Speaking skill: A1
