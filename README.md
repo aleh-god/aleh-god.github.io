@@ -51,7 +51,7 @@ No have experience. Self-education.
 - [ ] [LetCode Spring Boot, Hibernate, Security youtube course](https://www.youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)
 
 - [ ] Head First Design Patterns: A Brain-Friendly Guide (RU) (1 page to 452)
-- [ ] Rolling Scopes School
+- [ ] Rolling Scopes School (Android 2021)
 - [ ] [Metanit Kotlin course](https://metanit.com/kotlin/tutorial/)
 
 ### 8. English :lips:
